@@ -1,11 +1,9 @@
 # Hi there, 👋
-<br>
 
 ## 💻 Sobre mim
 - QA e Desenvolvedor Front-End
 - Experiência em **Testes Manuais, Javascript, Css, Html**
 - Buscando oportunidades na área de tecnologia
-<br>
 
 ## 🚀 Stacks
 
@@ -14,7 +12,7 @@
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-black?style=for-the-badge&logo=cypress"/>
 </p>
 
- Front-End
+<img width="20em" height="100" alt="image" src="https://github.com/user-attachments/assets/af20bfc7-1461-4421-89de-ef17ab498056" /> Front-End
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript"/>
   <img alt="Css" src="https://img.shields.io/badge/-css-black?style=for-the-badge&logoColor=blue&logo=css"/>
@@ -28,14 +26,15 @@
 ⚙️ DevOps
 
 🚧 Under Construction
-<br>
-<br>
 
 ## 📚 Linguagens/Ferramentas que estou aprendendo
 <p>
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-black?style=for-the-badge&logo=cypress"/>
+  <img alt="Robot Framework" src="https://img.shields.io/badge/-robot_framework-black?style=for-the-badge&logo=robot-framework"/>
+  <img alt="MySql" src="https://img.shields.io/badge/-mysql-black?style=for-the-badge&logo=mysql"/>
+  <img alt="Postman" src="https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker"/>
 </p>
-<br>
 
 ## <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github Statistics
 <div style="display: flex; gap: 10px;">
