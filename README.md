@@ -1,9 +1,9 @@
 # Hi there, 👋
 
-## 💻 Sobre mim
-- QA e Desenvolvedor Front-End
-- Experiência em **Testes Manuais, Javascript, Css, Html**
-- Buscando oportunidades na área de tecnologia
+## 💻 About me
+- Manual tester and Front-end developer
+- Experience in **Manual Testing, Javascript, Css, Html**
+- Seeking Tester/QA opportunities with a focus on test automation
 
 ## 🚀 Stacks
 
@@ -27,7 +27,7 @@
 
 🚧 Under Construction
 
-## 📚 Linguagens/Ferramentas que estou aprendendo
+## 📚 Languages/Tools I'm learning
 <p>
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-black?style=for-the-badge&logo=cypress"/>
   <img alt="Robot Framework" src="https://img.shields.io/badge/-robot_framework-black?style=for-the-badge&logo=robot-framework"/>
