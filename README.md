@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, 👋
+<br>
 
-<!--
-**Andeilso/Andeilso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mim
+- QA e Desenvolvedor Front-End
+- Experiência em **Testes Manuais, Javascript, Css, Html**
+- Buscando oportunidades na área de tecnologia
+<br>
 
-Here are some ideas to get you started:
+## 🚀 Stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Test Automation
+<p>
+  <img alt="Cypress" src="https://img.shields.io/badge/-cypress-black?style=for-the-badge&logo=cypress"/>
+</p>
+
+ Front-End
+<p>
+  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript"/>
+  <img alt="Css" src="https://img.shields.io/badge/-css-black?style=for-the-badge&logoColor=blue&logo=css"/>
+  <img alt="Html5" src="https://img.shields.io/badge/-html-black?style=for-the-badge&logo=html5"/>
+</p>
+
+🧾 Back-End
+
+🚧 Under Construction
+
+⚙️ DevOps
+
+🚧 Under Construction
+<br>
+<br>
+
+## 📚 Linguagens/Ferramentas que estou aprendendo
+<p>
+  <img alt="Cypress" src="https://img.shields.io/badge/-cypress-black?style=for-the-badge&logo=cypress"/>
+</p>
+<br>
+
+## <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github Statistics
+<div style="display: flex; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andeilso&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andeilso&layout=compact&theme=radical" />
+</div>
+
+
+## 🌎 Where to find me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andeilso-alves-394094184/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:andeilsoalves@gmail.com)
