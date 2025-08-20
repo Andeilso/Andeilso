@@ -10,6 +10,7 @@
 🤖 Test Automation
 <p>
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-black?style=for-the-badge&logo=cypress"/>
+  <img alt="Postman" src="https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman"/>
 </p>
 
 <img width="20em" height="100" alt="image" src="https://github.com/user-attachments/assets/af20bfc7-1461-4421-89de-ef17ab498056" /> Front-End
