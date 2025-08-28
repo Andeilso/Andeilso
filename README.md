@@ -27,7 +27,9 @@
 
 ⚙️ DevOps
 
-🚧 Under Construction
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker"/>
+</p>
 
 ## 📚 Languages/Tools I'm learning
 <p>
