@@ -23,6 +23,7 @@
 🧾 Back-End
 <p>
   <img alt="MySql" src="https://img.shields.io/badge/-mysql-black?style=for-the-badge&logo=mysql"/>
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=csharp"/>
 </p>
 
 ⚙️ DevOps
@@ -38,6 +39,7 @@
   <img alt="MySql" src="https://img.shields.io/badge/-mysql-black?style=for-the-badge&logo=mysql"/>
   <img alt="Postman" src="https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman"/>
   <img alt="Docker" src="https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker"/>
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=csharp"/>
 </p>
 
 ## <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github Statistics
