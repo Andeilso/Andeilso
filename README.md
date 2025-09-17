@@ -44,8 +44,8 @@
 
 ## <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github Statistics
 <div style="display: flex; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andeilso&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andeilso&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-andeilso.vercel.app/api?username=andeilso&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-andeilso.vercel.app/api/top-langs/?username=andeilso&layout=compact&theme=radical&cache_seconds=0" />
 </div>
 
 
